@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xuanlin Zeng
 - 👀 I’m interested in multi-vehicle cooperative control
 - 🌱 I’m currently a second-year master's student at Tongji University, China
-- 💞️ You can see more about me at [xuanlinzeng.github.io](xuanlinzeng.github.io)
+- 💞️ You can see more about me at [xuanlinzeng.github.io](https://xuanlinzeng.github.io/)
 - 📫 How to reach me: zengxuanlin@tongji.edu.cn
 
 ### Hi there 👋
