@@ -11,11 +11,14 @@
 
 ![Xuanlin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanlinZeng&layout=compact&hide_border=true&langs_count=10)
 
+[![Xuanlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuanlinZeng)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XuanlinZeng/XuanlinZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Ref.https://zhuanlan.zhihu.com/p/376158697
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
